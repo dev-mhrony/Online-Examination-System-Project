@@ -32,7 +32,7 @@ Feedbacks
 - Step 5th. Paste inside root directory/ where you install xampp/ Laragon local disk C: drive D: drive E: paste: for xampp/htdocs,
 - Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
 - Step 7th. Create database name "ccbd_online_exam"
-- Step 8th. Import ccbd_online_exam.sql file given inside the zip package in SQL file folder
+- Step 8th. Import "ccbd_online_exam.sql" file given inside the zip package in SQL file folder
 - Step 9th. Run the script http://localhost/"Folder"
 - Step 10th. Admin Panel to Go -> "http://localhost/'Folder Location'/adminpanal/admin"
 - Step 11th. Login Admin Panel.
