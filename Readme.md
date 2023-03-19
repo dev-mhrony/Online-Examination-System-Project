@@ -35,7 +35,7 @@ Feedbacks
 - Step 8th. Import "ccbd_online_exam.sql" file given inside the zip package in SQL file folder
 - Step 9th. Run the script http://localhost/"Folder"
 - Step 10th. Admin Panel to Go -> "http://localhost/'Folder Location'/adminpanal/admin"
-- Step 11th. Login Admin Panel.
+- Step 11th. Login Admin Panel / Student Panel.
 
 ### Admin Panel And Student Panel Login Info
 
