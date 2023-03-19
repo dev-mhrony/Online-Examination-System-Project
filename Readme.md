@@ -6,23 +6,23 @@
 - Design used:         HTML JavaScript, Ajax, JQuery, Bootstrap
 - Browser used:        IE8, Google Chrome, Opera Mozilla
 - Software used:        WAMP/ XAMPP/ LAMP/MAMP / Laragon
-<br/>
+
 Manage Course
- - Course
- - Course Manage
+- Course
+- Course Manage
 Manage Exam
- - Exam
- - Manage Examinee
- - Add Examinee
- - Manage Examinee
+- Exam
+- Manage Examinee
+- Add Examinee
+- Manage Examinee
 Reports
- - Report Examinee
- - Feedbacks
+- Report Examinee
+- Feedbacks
 Dashboard: Examiner All Exam
- - Approved by Admin
- - Exam Again
+- Approved by Admin
+- Exam Again
 Feedbacks
- - Feedback Adds
+- Feedback Adds
 
 ### How to setup this project
 - Step 1st. Download xampp / Laragon and Install
