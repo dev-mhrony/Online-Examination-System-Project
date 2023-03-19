@@ -1,26 +1,43 @@
-## Online Examination System in PHP
+## Online Examination System Project in PHP
 
-1.XAMPP / Laragon
+- Name of Project:     Online Examination System Project
+- Language:            PHP
+- Databases used:      My SQL
+- Design used:         HTML JavaScript, Ajax, JQuery, Bootstrap
+- Browser used:        IE8, Google Chrome, Opera Mozilla
+- Software used:        WAMP/ XAMPP/ LAMP/MAMP / Laragon
 
-2."TEXT EDITOR" NOTEPAD++/ SUBLIME TEX OR VS Code / ETC.
+Manage Course
+ - Course
+ - Course Manage
+Manage Exam
+ - Exam
+ - Manage Examinee
+ - Add Examinee
+ - Manage Examinee
+Reports
+ - Report Examinee
+ - Feedbacks
+Dashboard: Examiner All Exam
+ - Approved by Admin
+ - Exam Again
+Feedbacks
+ - Feedback Adds
 
-3.ITO YONG SOURCE CODE NA IBIBIGAY KO "Online Examination System"
+### How to setup this project
+- Step 1st. Download xampp / Laragon and Install
+- Step 2nd. Text editor notepad++ or Sublime / Vs Code
+- Step 3rd. Download the zip file/ Download winrar
+- Step 4th. Extract the file and copy “Download Folder” folder
+- Step 5th. Paste inside root directory/ where you install xampp/ Laragon local disk C: drive D: drive E: paste: for xampp/htdocs,
+- Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
+- Step 7th. Create database name "ccbd_online_exam"
+- Step 8th. Import ccbd_online_exam.sql file given inside the zip package in SQL file folder
+- Step 9th. Run the script http://localhost/"Folder"
+- Step 10th. Admin Panel to Go -> "http://localhost/'Folder Location'/adminpanal/admin"
+- Step 11th. Login Admin Panel.
 
-4. Download the zip file/ download din ng winrar
-
-5. Extract the file and copy "Online Examination System" folder
-
-6.Paste inside root directory/ kayo nakakaalam kung sa local disk C: drive D: sa akin drive E: naka install ang xammp kayo doon ko paste: (for xampp/htdocs,
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name "ccbd_online_exam"
-
-9. Import ccbd_online_exam.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/"Your Folder Location" Examination System
-
-lahat ng ito ituturo ko
+### Admin Panel And Student Panel Login Info
 
 admin Username: ccbd <br> Password: <a href="#">Watch This Video</a>
 
