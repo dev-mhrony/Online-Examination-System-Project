@@ -6,7 +6,7 @@
 - Design used:         HTML JavaScript, Ajax, JQuery, Bootstrap
 - Browser used:        IE8, Google Chrome, Opera Mozilla
 - Software used:        WAMP/ XAMPP/ LAMP/MAMP / Laragon
-
+<br/>
 Manage Course
  - Course
  - Course Manage
