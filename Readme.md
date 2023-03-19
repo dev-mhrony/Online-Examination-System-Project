@@ -22,9 +22,9 @@
 
 lahat ng ito ituturo ko
 
-admin Username: ccbd <br> Password: Watch this Video
+admin Username: ccbd <br> Password: <a href="#">Watch This Video</a>
 
-user Username: user <br> Password: Watch This Video
+user Username: user <br> Password: <a href="#">Watch This Video</a>
 
 ## Admin Panel
 
