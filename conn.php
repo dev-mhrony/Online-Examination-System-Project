@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db   = "cee_db";
+$db   = "ccbd_online_exam";
 $conn = null;
 
 try {
